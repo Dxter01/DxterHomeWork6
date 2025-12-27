@@ -14,7 +14,7 @@ body {
 
 .table,
 td {
-  border: solid black;
+  border: 10px solid black;
   border-collapse: collapse;
 }
 
@@ -36,6 +36,7 @@ td {
 
 .black {
   background-color: black;
+  color: white;
 }
 
 .red {
@@ -44,4 +45,5 @@ td {
 
 .blue {
   background-color: blue;
+  color: white;
 }
